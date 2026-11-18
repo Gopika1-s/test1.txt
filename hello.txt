@@ -1,0 +1,2 @@
+Hello! I'm learning Git and GitHub.
+This is my first version-controlled project.
